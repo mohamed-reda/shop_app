@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import '../models/product.dart';
 
 class ProductsOverviewScreen extends StatelessWidget {
+  //todo here
+//  List
   @override
   Widget build(BuildContext context) {
 
@@ -16,7 +19,6 @@ class ProductsOverviewScreen extends StatelessWidget {
 //import '../widgets/badge.dart';
 //import '../providers/cart.dart';
 //import './cart_screen.dart';
-//import '../providers/products.dart';
 //
 //enum FilterOptions {
 //  Favorites,
