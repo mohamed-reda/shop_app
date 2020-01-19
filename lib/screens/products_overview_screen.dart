@@ -1,17 +1,16 @@
 import 'package:flutter/material.dart';
 import '../models/product.dart';
 
-class ProductsOverviewScreen extends StatelessWidget {
-  //todo here
+class ProductsOverviewScreen extends StatelessWidget
+    {
+    //todo here
 //  List
-  @override
-  Widget build(BuildContext context) {
-
-    return Container(
-
-    );
-  }
-}
+    @override
+    Widget build (BuildContext context) {
+        return Container (
+        );
+    }
+    }
 //import 'package:provider/provider.dart';
 //
 //import '../widgets/app_drawer.dart';
